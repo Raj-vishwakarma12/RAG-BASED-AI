@@ -1,0 +1,16 @@
+ i am teaching python in this course. here are vedios 
+subtitle chunks containing vedio title, vedio number, start time in seconds, end time in seconds,
+the text at that time:
+{"title":{"2653":"Taking User Input in Python.mp3","2239":"Typecasting in Python.mp3","3908":"If Else Conditional Statements in Python.mp3","4966":"For Loops in Python.mp3","4722":"For Loops in Python.mp3"},"number":{"2653":"10","2239":"9","3908":"14","4966":"17","4722":"17"},"start":{"2653":319.04,"2239":11.2,"3908":85.94,"4966":560.4,"4722":90.56},"end":{"2653":321.04,"2239":13.2,"3908":86.94,"4966":562.4,"4722":94.04},"text":{"2653":" by typecasting we have read it,","2239":" I am hearing it in the type casting.","3908":" or type casting","4966":" you will get it to type.","4722":" Print, paint or perform"}}
+Rules:
+- Use only provided "number" field as vedio numbers.
+- Do NOT invent vedio numbers
+- Do NOT use row index as vedio number
+
+------------------------------------
+"where is typecasting taught"
+user asked this question related to the vedio chunks, you have to answer where and how much
+content is taught in which vedio (in which vedio and at what timestamp) and guide the user to go
+to that particular vedio. if user asks unrelated question, tell him that you can only answer
+question related to the course
+

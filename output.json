@@ -1,0 +1,617 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " Today we will talk about how much we will take in 12 days."
+    },
+    {
+        "start": 2.0,
+        "end": 9.0,
+        "text": " Because in today's video, you will need to use the EFL statements in one more exercise."
+    },
+    {
+        "start": 9.0,
+        "end": 14.0,
+        "text": " You will know that exactly the EFL statements are practical used."
+    },
+    {
+        "start": 14.0,
+        "end": 16.0,
+        "text": " We will use the time module."
+    },
+    {
+        "start": 16.0,
+        "end": 20.0,
+        "text": " Let's go to the computer screen and I will show you the exercise."
+    },
+    {
+        "start": 20.0,
+        "end": 30.0,
+        "text": " I have already seen the computer screen in this exercise."
+    },
+    {
+        "start": 30.0,
+        "end": 33.0,
+        "text": " You can see the computer screen in this exercise."
+    },
+    {
+        "start": 33.0,
+        "end": 36.0,
+        "text": " And this exercise is called Good Morning."
+    },
+    {
+        "start": 36.0,
+        "end": 43.0,
+        "text": " You should make a Python program that will greet users with good morning, good afternoon and good evening."
+    },
+    {
+        "start": 43.0,
+        "end": 45.0,
+        "text": " Depending upon the time."
+    },
+    {
+        "start": 45.0,
+        "end": 47.0,
+        "text": " Now we are going to use the time module."
+    },
+    {
+        "start": 47.0,
+        "end": 49.0,
+        "text": " I have given you a link."
+    },
+    {
+        "start": 49.0,
+        "end": 50.0,
+        "text": " You should have seen it."
+    },
+    {
+        "start": 50.0,
+        "end": 53.0,
+        "text": " It is very simple and you will feel that it is cheating."
+    },
+    {
+        "start": 53.0,
+        "end": 57.0,
+        "text": " I am going to tell you that it will be a very big hint."
+    },
+    {
+        "start": 57.0,
+        "end": 59.0,
+        "text": " I will tell you what you should do without it."
+    },
+    {
+        "start": 59.0,
+        "end": 61.0,
+        "text": " I have given you a hint."
+    },
+    {
+        "start": 61.0,
+        "end": 63.0,
+        "text": " I will show you this program."
+    },
+    {
+        "start": 63.0,
+        "end": 65.0,
+        "text": " I will show you this program."
+    },
+    {
+        "start": 65.0,
+        "end": 68.0,
+        "text": " I will challenge you not to see this program."
+    },
+    {
+        "start": 68.0,
+        "end": 70.0,
+        "text": " I will not do this exercise."
+    },
+    {
+        "start": 70.0,
+        "end": 73.0,
+        "text": " I will not post the exercise."
+    },
+    {
+        "start": 73.0,
+        "end": 75.0,
+        "text": " You should not see it."
+    },
+    {
+        "start": 75.0,
+        "end": 77.0,
+        "text": " You should not see it."
+    },
+    {
+        "start": 77.0,
+        "end": 79.0,
+        "text": " I have solved it."
+    },
+    {
+        "start": 79.0,
+        "end": 81.0,
+        "text": " I have solved it."
+    },
+    {
+        "start": 81.0,
+        "end": 83.0,
+        "text": " I am confident."
+    },
+    {
+        "start": 83.0,
+        "end": 85.0,
+        "text": " You should see the program."
+    },
+    {
+        "start": 85.0,
+        "end": 87.0,
+        "text": " The question is to write a program."
+    },
+    {
+        "start": 87.0,
+        "end": 90.0,
+        "text": " Good morning and good afternoon and good evening."
+    },
+    {
+        "start": 90.0,
+        "end": 91.0,
+        "text": " Write it."
+    },
+    {
+        "start": 91.0,
+        "end": 93.0,
+        "text": " Pause the video here and write."
+    },
+    {
+        "start": 93.0,
+        "end": 95.0,
+        "text": " I will talk about it later."
+    },
+    {
+        "start": 95.0,
+        "end": 98.0,
+        "text": " You will post the video and I will tell you what I have said."
+    },
+    {
+        "start": 99.0,
+        "end": 103.0,
+        "text": " People who are in a problem and they are not able to make a module."
+    },
+    {
+        "start": 103.0,
+        "end": 105.0,
+        "text": " They are not able to make a module."
+    },
+    {
+        "start": 105.0,
+        "end": 109.0,
+        "text": " For those who do not know what they are doing."
+    },
+    {
+        "start": 109.0,
+        "end": 111.0,
+        "text": " They need a hint."
+    },
+    {
+        "start": 111.0,
+        "end": 113.0,
+        "text": " They need a problem solving the problem."
+    },
+    {
+        "start": 113.0,
+        "end": 116.0,
+        "text": " I will tell you that you should run this sample program."
+    },
+    {
+        "start": 116.0,
+        "end": 119.0,
+        "text": " The time module is not needed for building."
+    },
+    {
+        "start": 119.0,
+        "end": 121.0,
+        "text": " Run this sample program."
+    },
+    {
+        "start": 121.0,
+        "end": 123.0,
+        "text": " We have imported the time module."
+    },
+    {
+        "start": 123.0,
+        "end": 125.0,
+        "text": " We have printed different times times."
+    },
+    {
+        "start": 125.0,
+        "end": 128.0,
+        "text": " It is function that gives us hour and minute."
+    },
+    {
+        "start": 128.0,
+        "end": 131.0,
+        "text": " If you run this program on the app,"
+    },
+    {
+        "start": 131.0,
+        "end": 133.0,
+        "text": " you will get US time zone."
+    },
+    {
+        "start": 133.0,
+        "end": 135.0,
+        "text": " This is the Rapples of US."
+    },
+    {
+        "start": 135.0,
+        "end": 137.0,
+        "text": " This is the Rapples of US."
+    },
+    {
+        "start": 137.0,
+        "end": 139.0,
+        "text": " If you are running a local computer,"
+    },
+    {
+        "start": 139.0,
+        "end": 141.0,
+        "text": " you will get all the things you are looking for."
+    },
+    {
+        "start": 141.0,
+        "end": 144.0,
+        "text": " You will get the time to see everything."
+    },
+    {
+        "start": 144.0,
+        "end": 146.0,
+        "text": " Good morning and good evening."
+    },
+    {
+        "start": 146.0,
+        "end": 150.0,
+        "text": " You will get the time to get your local computer."
+    },
+    {
+        "start": 150.0,
+        "end": 152.0,
+        "text": " I will show you an example."
+    },
+    {
+        "start": 152.0,
+        "end": 154.0,
+        "text": " I will write Python in this program."
+    },
+    {
+        "start": 154.0,
+        "end": 156.0,
+        "text": " I will write Python 3."
+    },
+    {
+        "start": 156.0,
+        "end": 158.0,
+        "text": " I will write Python 3 in the app."
+    },
+    {
+        "start": 158.0,
+        "end": 160.0,
+        "text": " I will show Python 3 in this program."
+    },
+    {
+        "start": 160.0,
+        "end": 162.0,
+        "text": " I will also come in VSCode."
+    },
+    {
+        "start": 162.0,
+        "end": 165.0,
+        "text": " I will use the control L and control L."
+    },
+    {
+        "start": 165.0,
+        "end": 167.0,
+        "text": " I will save this to the main.py."
+    },
+    {
+        "start": 167.0,
+        "end": 171.0,
+        "text": " I will paste this and copy it."
+    },
+    {
+        "start": 171.0,
+        "end": 175.0,
+        "text": " I will use the code runner extension."
+    },
+    {
+        "start": 175.0,
+        "end": 179.0,
+        "text": " I will write Python some time."
+    },
+    {
+        "start": 179.0,
+        "end": 181.0,
+        "text": " So, let's talk about the command bound python."
+    },
+    {
+        "start": 181.0,
+        "end": 184.0,
+        "text": " So, let's talk about the method to do this."
+    },
+    {
+        "start": 184.0,
+        "end": 187.0,
+        "text": " Now, go to settings and"
+    },
+    {
+        "start": 187.0,
+        "end": 191.0,
+        "text": " You can see the code runner"
+    },
+    {
+        "start": 191.0,
+        "end": 195.0,
+        "text": " And here, the code runner"
+    },
+    {
+        "start": 195.0,
+        "end": 197.0,
+        "text": " In the edit settings.json"
+    },
+    {
+        "start": 197.0,
+        "end": 199.0,
+        "text": " So, here you can see python will be written here."
+    },
+    {
+        "start": 199.0,
+        "end": 200.0,
+        "text": " I will show it to you."
+    },
+    {
+        "start": 200.0,
+        "end": 201.0,
+        "text": " I will show it to you."
+    },
+    {
+        "start": 201.0,
+        "end": 203.0,
+        "text": " Python-3 will be written."
+    },
+    {
+        "start": 203.0,
+        "end": 205.0,
+        "text": " I will show it to you."
+    },
+    {
+        "start": 205.0,
+        "end": 207.0,
+        "text": " And this should do the trick."
+    },
+    {
+        "start": 207.0,
+        "end": 209.0,
+        "text": " Now, this is my local time."
+    },
+    {
+        "start": 209.0,
+        "end": 210.0,
+        "text": " It is 11 o'clock."
+    },
+    {
+        "start": 210.0,
+        "end": 212.0,
+        "text": " So, it is my local time."
+    },
+    {
+        "start": 212.0,
+        "end": 213.0,
+        "text": " Now, what I am doing here?"
+    },
+    {
+        "start": 213.0,
+        "end": 216.0,
+        "text": " I am printing our minutes of seconds."
+    },
+    {
+        "start": 216.0,
+        "end": 217.0,
+        "text": " In this format,"
+    },
+    {
+        "start": 217.0,
+        "end": 219.0,
+        "text": " The person will come to the place of the game."
+    },
+    {
+        "start": 219.0,
+        "end": 221.0,
+        "text": " The person will come to the place of the game."
+    },
+    {
+        "start": 221.0,
+        "end": 223.0,
+        "text": " The person will come to the place of the game."
+    },
+    {
+        "start": 223.0,
+        "end": 225.0,
+        "text": " I will only give this power."
+    },
+    {
+        "start": 225.0,
+        "end": 227.0,
+        "text": " I will only give this power."
+    },
+    {
+        "start": 227.0,
+        "end": 229.0,
+        "text": " I am using the time of the SDRF."
+    },
+    {
+        "start": 229.0,
+        "end": 231.0,
+        "text": " And I will give this power to the second."
+    },
+    {
+        "start": 231.0,
+        "end": 233.0,
+        "text": " I hope you understood the thing."
+    },
+    {
+        "start": 233.0,
+        "end": 236.0,
+        "text": " I will get the second time of the minute."
+    },
+    {
+        "start": 236.0,
+        "end": 238.0,
+        "text": " And if you want to go to the other place,"
+    },
+    {
+        "start": 238.0,
+        "end": 240.0,
+        "text": " Click on the control clicker."
+    },
+    {
+        "start": 240.0,
+        "end": 242.0,
+        "text": " On the link and you will know about it."
+    },
+    {
+        "start": 242.0,
+        "end": 244.0,
+        "text": " I am very simple."
+    },
+    {
+        "start": 244.0,
+        "end": 246.0,
+        "text": " I have not got a big rocket science."
+    },
+    {
+        "start": 246.0,
+        "end": 248.0,
+        "text": " I am going to give a big hand."
+    },
+    {
+        "start": 248.0,
+        "end": 250.0,
+        "text": " I will solve it."
+    },
+    {
+        "start": 250.0,
+        "end": 252.0,
+        "text": " If you want to hear it,"
+    },
+    {
+        "start": 252.0,
+        "end": 254.0,
+        "text": " If you want to hear the star,"
+    },
+    {
+        "start": 254.0,
+        "end": 256.0,
+        "text": " Or if you want to hear the apple post,"
+    },
+    {
+        "start": 256.0,
+        "end": 258.0,
+        "text": " Then you should listen."
+    },
+    {
+        "start": 258.0,
+        "end": 260.0,
+        "text": " I am going to tell you that"
+    },
+    {
+        "start": 260.0,
+        "end": 262.0,
+        "text": " You are not going to use the int."
+    },
+    {
+        "start": 262.0,
+        "end": 264.0,
+        "text": " Because this is your integer."
+    },
+    {
+        "start": 264.0,
+        "end": 266.0,
+        "text": " You are sitting like a greater than less than."
+    },
+    {
+        "start": 266.0,
+        "end": 268.0,
+        "text": " So greater than less than"
+    },
+    {
+        "start": 268.0,
+        "end": 272.0,
+        "text": " You will not be able to see the string."
+    },
+    {
+        "start": 272.0,
+        "end": 274.0,
+        "text": " It will be problematic."
+    },
+    {
+        "start": 274.0,
+        "end": 276.0,
+        "text": " So you have to convert it into an integer."
+    },
+    {
+        "start": 276.0,
+        "end": 278.0,
+        "text": " You have to convert it into an integer."
+    },
+    {
+        "start": 278.0,
+        "end": 280.0,
+        "text": " Int of."
+    },
+    {
+        "start": 280.0,
+        "end": 282.0,
+        "text": " This is a very big hint."
+    },
+    {
+        "start": 282.0,
+        "end": 284.0,
+        "text": " This is a catch the whole question."
+    },
+    {
+        "start": 284.0,
+        "end": 286.0,
+        "text": " I have entered it."
+    },
+    {
+        "start": 286.0,
+        "end": 288.0,
+        "text": " I am showing it in the integer."
+    },
+    {
+        "start": 288.0,
+        "end": 290.0,
+        "text": " But I will control it."
+    },
+    {
+        "start": 290.0,
+        "end": 292.0,
+        "text": " So that you do not disturb."
+    },
+    {
+        "start": 292.0,
+        "end": 294.0,
+        "text": " This is not a play list."
+    },
+    {
+        "start": 294.0,
+        "end": 296.0,
+        "text": " So do not do this."
+    },
+    {
+        "start": 296.0,
+        "end": 298.0,
+        "text": " Thank you so much for watching this video."
+    },
+    {
+        "start": 298.0,
+        "end": 300.0,
+        "text": " And I will see you next time."
+    }
+]
